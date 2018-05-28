@@ -1,13 +1,13 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
-import { HighchartsChartComponent } from './highcharts-chart.component';
+import { NgHchartsComponent } from './component/ng-hcharts/ng-hcharts.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    HighchartsChartComponent
+    NgHchartsComponent
   ],
   imports: [
     BrowserModule
