@@ -30,8 +30,8 @@ Make a chart!
 ```
 
 <!-- The `chartConfig` object should be the same as a normal highcharts configuration. Any options that work in highcharts should work here also. 
-<!-- ### Chart types
-There are one directive for all chart types: `base-chart`, and there are 6 types of charts: , `line`, `bar`, `radar`, `pie`, `polarArea`, `doughnut`. --> -->
+### Chart types
+There are one directive for all chart types: `base-chart`, and there are 6 types of charts: , `line`, `bar`, `radar`, `pie`, `polarArea`, `doughnut`. --> 
 
 ### Properties
 
