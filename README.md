@@ -26,12 +26,12 @@ Responsive highcharts for Angular2+ base on highcharts used attibute
 Make a chart!
 
 ```html
-<div id="chart1" [options]="chartConfig"></div>
+<div id="chart1" [ng-hcharts]="chartConfig"></div>
 ```
 
-The `chartConfig` object should be the same as a normal highcharts configuration. Any options that work in highcharts should work here also. 
-### Chart types
-There are one directive for all chart types: `base-chart`, and there are 6 types of charts: , `line`, `bar`, `radar`, `pie`, `polarArea`, `doughnut`.
+<!-- The `chartConfig` object should be the same as a normal highcharts configuration. Any options that work in highcharts should work here also. 
+<!-- ### Chart types
+There are one directive for all chart types: `base-chart`, and there are 6 types of charts: , `line`, `bar`, `radar`, `pie`, `polarArea`, `doughnut`. --> -->
 
 ### Properties
 
