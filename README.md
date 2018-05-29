@@ -2,7 +2,7 @@
 Responsive highcharts for Angular2+ base on highcharts used attibute
 
 [![NPM](https://nodei.co/npm/ng-hcharts.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.org/ng-hcharts)
-[![NPM](https://nodei.co/npm-dl/ng-hcharts.png?height=3&months=9)](https://npmjs.org/ng-hcharts)
+[![NPM](https://nodei.co/npm-dl/ng-hcharts.png?&months=9)](https://npmjs.org/ng-hcharts)
 
 - - -
 
