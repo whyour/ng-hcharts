@@ -1,4 +1,4 @@
-# ng-hcharts [![npm version](https://badge.fury.io/js/ng2-charts.svg)](http://badge.fury.io/js/ng2-charts) [![npm downloads](https://img.shields.io/npm/dm/ng-hcharts.svg)](https://npmjs.org/ng-hcharts) [![slack](https://ngx-slack.herokuapp.com/badge.svg)](https://ngx-slack.herokuapp.com)
+# ng-hcharts [![npm version](https://badge.fury.io/js/ng-hcharts.svg)](http://badge.fury.io/js/ng-hcharts) [![npm downloads](https://img.shields.io/npm/dm/ng-hcharts.svg)](https://npmjs.org/ng-hcharts) [![slack](https://ngx-slack.herokuapp.com/badge.svg)](https://ngx-slack.herokuapp.com)
 Responsive highcharts for Angular2+ base on highcharts used attibute
 
 [![NPM](https://nodei.co/npm/ng-hcharts.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.org/ng-hcharts)
@@ -37,7 +37,7 @@ There are one directive for all chart types: `base-chart`, and there are 6 types
 
 **Note**: For more information about possible options please refer to original [highcharts](https://www.highcharts.com/docs) documentation
 
-- `options` (`?any`) - chart options (as from [highcharts documentation](https://www.highcharts.com/docs))
+- `ng-hcharts` (`?any`) - chart options (as from [highcharts documentation](https://www.highcharts.com/docs))
 - `oneToOne` (`?Boolean`) - When true, the series, xAxis and yAxis collections will be updated one to one, and items will be either added or removed to match the new updated options. For example, if the chart has two series and we call chart.update with a configuration containing three series, one will be added. If we call chart.update with one series, one will be removed. Setting an empty series array will remove all series, but leaving out the series property will leave all series untouched. If the series have id's, the new series options will be matched by id, and the remaining ones removed.
 
 
