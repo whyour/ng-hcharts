@@ -6,8 +6,8 @@
     "build:ngm": "ngm build -p src --clean"
   },
   "private": true,
-  "peerDependencies": {
-    "highcharts": "^6.1.0"
+  "dependencies": {
+    "highcharts": "^6.1.0"    
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.6.5",
