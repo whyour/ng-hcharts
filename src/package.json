@@ -1,6 +1,6 @@
 {
   "name": "ng-hcharts",
-  "version": "1.0.4-0",
+  "version": "1.0.6",
   "description": "Responsive highcharts for Angular2+ base on highcharts",
   "main": "index.js",
   "scripts": {},
@@ -18,22 +18,12 @@
     "url": "https://github.com/whyour/ng-hcharts/issues"
   },
   "homepage": "https://github.com/whyour/ng-hcharts#readme",
-  "dependencies": {
-    "@angular/common": "^6.0.3",
-    "@angular/core": "^6.0.3",
-    "highcharts": "^6.1.0",
-    "rxjs": "^6.2.0"
-  },
-  "devDependencies": {
-    "@types/jasmine": "~2.8.6",
-    "typescript": "~2.7.2"
-  },
   "peerDependencies": {
-    "@angular/common": "*",
-    "@angular/compiler": "*",
-    "@angular/core": "*",
-    "@angular/forms": "*",
-    "typescript": "*",
-    "rxjs": "*"
+    "@angular/common": "^6.0.3",
+    "@angular/compiler": "^6.0.3",
+    "@angular/core": "^6.0.3",
+    "typescript": "~2.7.2",
+    "highcharts": "^6.1.0",    
+    "rxjs": "^6.2.0"
   }
 }
