@@ -1,6 +1,6 @@
 {
   "name": "ng-hcharts",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "scripts": {
     "build": "rimraf ./built/* ./codegen/* && ngc -p tsconfig-dist.json",
     "build:ngm": "ngm build -p src --clean"
