@@ -24,6 +24,21 @@ Responsive highcharts for Angular2+ base on highcharts used attibute
   [demo](https://whyour.github.io/ng-hcharts/) and [source code](https://github.com/valor-software/ng2-charts/tree/master/demo) -->
 
 Make a chart!
+```typescript
+import { NgHChartsModule } from 'ng-hcharts';
+
+@NgModule({
+  declarations: [
+    AppComponent
+  ],
+  imports: [
+    BrowserModule,
+    NgHChartsModule
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+```
 
 ```html
 <div id="chart1" [ng-hcharts]="chartConfig"></div>
