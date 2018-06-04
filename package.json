@@ -1,13 +1,13 @@
 {
   "name": "ng-hcharts",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "scripts": {
     "build": "rimraf ./built/* ./codegen/* && ngc -p tsconfig-dist.json",
     "build:ngm": "ngm build -p src --clean"
   },
   "private": true,
   "dependencies": {
-    "highcharts": "^6.1.0"    
+    "highcharts": "^6.1.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.6.5",
