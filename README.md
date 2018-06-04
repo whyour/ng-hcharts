@@ -1,8 +1,5 @@
-# ng-hcharts [![npm version](https://img.shields.io/npm/v/ng-hcharts.svg)](https://img.shields.io/npm/v/ng-hcharts.svg) [![npm downloads](https://img.shields.io/npm/dt/ng-hcharts.svg)](https://npmjs.org/ng-hcharts) [![slack](https://ngx-slack.herokuapp.com/badge.svg)](https://ngx-slack.herokuapp.com)
+# ng-hcharts [![npm version](https://img.shields.io/npm/v/ng-hcharts.svg)](https://img.shields.io/npm/v/ng-hcharts.svg) [![npm downloads](https://img.shields.io/npm/dt/ng-hcharts.svg)](https://npmjs.org/ng-hcharts)
 Responsive highcharts for Angular2+ base on highcharts used attibute
-
-[![NPM](https://nodei.co/npm/ng-hcharts.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.org/ng-hcharts)
-[![NPM](https://nodei.co/npm-dl/ng-hcharts.png?&months=9)](https://npmjs.org/ng-hcharts)
 
 - - -
 
