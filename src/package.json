@@ -1,6 +1,6 @@
 {
   "name": "ng-hcharts",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "description": "Responsive highcharts for Angular2+ base on highcharts",
   "main": "index.js",
   "scripts": {},
